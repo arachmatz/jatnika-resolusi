@@ -2,3 +2,4 @@ this is my first lessons to use github
 updating file
 updating squash 1
 updating squash 2
+updating squash 3
